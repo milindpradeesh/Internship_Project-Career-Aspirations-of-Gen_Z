@@ -1,11 +1,11 @@
 # Internship_Project-Career-Aspirations-of-Gen_Z
 
 ## **Project Overview**
-This project aimed to bridge the gap between Gen Z's career expectations and traditional employer offerings in India. By conducting a comprehensive survey, we explored the key factors influencing Gen Z's career choices, their global ambitions, and their preferences for work-life balance and company culture.
+This project aimed to bridge the gap between Gen Z's career expectations and traditional employer offerings in India. By conducting a comprehensive survey, I explored the key factors influencing Gen Z's career choices, their global ambitions, and their preferences for work-life balance and company culture.
 
 
 ## **Dataset Description**
-This project leverages a dataset collected through an online survey conducted by Kulture Hire Administrators to delve into the career aspirations of Gen Z in India. By analyzing the survey data, we aim to understand the key factors influencing Gen Z's career choices, their preferences for work-life balance and company culture, and the gap between their expectations and traditional employer offerings.
+This project leverages a dataset collected through an online survey conducted by Kulture Hire Administrators to delve into the career aspirations of Gen Z in India. By analyzing the survey data, one aims to understand the key factors influencing Gen Z's career choices, their preferences for work-life balance and company culture, and the gap between their expectations and traditional employer offerings.
 
 
 ## **Objective**
