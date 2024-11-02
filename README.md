@@ -37,13 +37,16 @@ By aligning with Gen Z's expectations, employers can improve talent acquisition 
 6. Developed an interactive executive dashboard using MS Excel to visualize and present key findings from the data analysis.
 
 
-7. Developed three interactive dashboards using MS Excel to present key findings on Learning Aspirations, Manager Aspirations, and Mission Aspiration.
+7. Developed three interactive dashboards using MS Excel to present key findings on Learner Aspirations, Manager Aspirations, and Mission Aspirations.
 
 
 8. Compiled the project findings into a comprehensive report using MS Word, highlighting key insights and recommendations.
 
 
 9. Develop a compelling presentation deck using MS Power Point to effectively communicate the key findings and recommendations from the project.
+
+
+10. Created additional Dashboards in Power BI with same data as compared to Original Executive Excel Dashboard & The Three Specific Dashboards (Learner Aspirations, Manager Aspirations, and Mission Aspirations). 
 
 
 
